@@ -1,0 +1,33 @@
+# Private research data
+data/private/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# QGIS temporary / auxiliary files
+*.qgz~
+*.qgs~
+*.gpkg-wal
+*.gpkg-shm
+*.qmd
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
