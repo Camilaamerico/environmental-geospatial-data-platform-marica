@@ -248,6 +248,8 @@ Interactive filters cover reporting area, impact type, and occurrence date. Dash
 
 ![Maricá Coastal Impact Dashboard - spatial and temporal views](outputs/dashboard/dashboard_overview_02.png)
 
+> The interactive dashboard runs locally through Docker and is therefore not publicly hosted. Screenshots of the final dashboard are included below.
+
 ### Custom Metabase Map
 
 A simplified WGS 84 GeoJSON was generated for the Metabase region map: `data/spatial/reporting_areas_wgs84.geojson` (EPSG:4326). The `report_area` field serves as both the region identifier and display field.
